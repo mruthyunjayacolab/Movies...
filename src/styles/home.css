@@ -1,0 +1,50 @@
+.home{
+
+    background-color:rgb(39, 58, 110);
+}.banner{
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.banner img{
+    border-radius: 10px;
+}
+.description p{
+    color: bisque;
+    
+
+}
+
+.description button{
+   
+    color:  rgba(red, green, blue, alpha);
+    border:  1px solid rgb(10,152,188);
+    border-radius: 5px;
+    height: 40px;
+    font-size: larger;
+    width: 200px;
+    background-color: transparent;
+
+}
+
+h1{
+    color: white;
+}
+.movies_list {
+    padding: 10px;
+    display: inline;
+}
+
+.movies_list img{
+    height: 350px;
+    width: 200px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.movies_list img:hover{
+    transform: translateY(-10px);
+    
+}

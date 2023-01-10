@@ -1,0 +1,67 @@
+{
+  "favourties": [
+    {
+      "title": "UI",
+      "ganer": "'Action'",
+      "languages": "Kannada",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "title": "KGF",
+      "ganer": "'Actions'",
+      "languages": "english",
+      "rating": 4.5,
+      "id": 2
+    },
+    {
+      "title": "UI",
+      "ganer": "Action",
+      "languages": "english",
+      "rating": 3,
+      "id": 3
+    },
+    {
+      "title": "Robo",
+      "ganer": "'Action'",
+      "languages": "Kannada",
+      "rating": 4,
+      "id": 4
+    },
+    {
+      "title": "hi",
+      "ganer": "hi",
+      "languages": "hi",
+      "rating": "hi",
+      "id": 19
+    },
+    {
+      "title": "hi",
+      "ganer": "ni",
+      "languages": "ni",
+      "rating": "ni",
+      "id": 20
+    },
+    {
+      "title": "manu",
+      "ganer": "hii",
+      "language": "manu",
+      "rating": "hamu",
+      "id": 21
+    },
+    {
+      "tit": "mohan",
+      "ganer": "hi",
+      "language": "manu",
+      "rating": "and",
+      "id": 22
+    },
+    {
+      "title": "hi",
+      "ganer": "hi",
+      "languages": "hi",
+      "rating": "ni",
+      "id": 23
+    }
+  ]
+}

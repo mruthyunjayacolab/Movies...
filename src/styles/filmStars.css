@@ -1,0 +1,25 @@
+.stars {
+    background-color: rgb(0, 32, 87);
+    color: aliceblue;
+    text-align: center;
+    padding: 40px 0px;
+}
+
+.stars h1 {
+    margin-top: 0px;
+    color: rgb(44, 152, 184);
+}
+
+.stars-list {
+    background-color: rgb(6, 4, 71);
+    margin: 10px auto;
+    padding: 30px;
+    width: 600px;
+    text-align: center;
+}
+
+.stars-list img {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+}

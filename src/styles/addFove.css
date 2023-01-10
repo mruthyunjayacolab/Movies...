@@ -1,0 +1,30 @@
+body{
+background-color: black;
+}
+.form{
+
+    display: flex;
+    margin: 50px auto;
+    background-color: aquamarine;
+    width:900px ;
+    box-shadow: 5px 5px 5px wheat;
+    border-radius: 5px;
+
+}
+.form_inputs{
+    border-radius: 10px;
+    margin-top: 200px;
+    margin-left: 70px;
+    text-align: center;
+    
+
+}
+.form_inputs input, button{
+    height: 30px;
+    width: 200px;
+    margin: 10px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+}
